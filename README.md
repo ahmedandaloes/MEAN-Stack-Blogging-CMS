@@ -1,4 +1,6 @@
 # MEAN-Stack-Blogging-CMS
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fahmedandaloes%2FMEAN-Stack-Blogging-CMS.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fahmedandaloes%2FMEAN-Stack-Blogging-CMS?ref=badge_shield)
+
 
 MEAN Stack Blog CMS Build with Mongoose/MongoDB, Express, Angular 4 and Node.js, still in production...
 
@@ -32,3 +34,7 @@ To-Do:
  - Improve UI for initial load
  - Add animations to post/page navigation
  
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fahmedandaloes%2FMEAN-Stack-Blogging-CMS.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fahmedandaloes%2FMEAN-Stack-Blogging-CMS?ref=badge_large)
